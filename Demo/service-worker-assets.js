@@ -2181,10 +2181,6 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
-      "url": "_framework\/Newtonsoft.Json.dll"
-    },
-    {
       "hash": "sha256-K99lDyL6VrtTDYGRk5o+Q3caW25Uogee\/1e7aIvpgLY=",
       "url": "_framework\/OneOf.dll"
     },
@@ -2201,11 +2197,11 @@
       "url": "_framework\/Tools.dll"
     },
     {
-      "hash": "sha256-jJRL1x6TIMuIX+dNTL6V7FZav5uoh081ZakRiPSxrYE=",
+      "hash": "sha256-OEJo9ezUwRMFABuhc5Hzsc9aVgojxM4zc8B1fNz3jT8=",
       "url": "_framework\/PWA.dll"
     },
     {
-      "hash": "sha256-VcIMzwIDKRieKp8XbQAAqhAOr4SJBIrSZT9dULx9cP8=",
+      "hash": "sha256-ZCJDZicf\/ylIB4DkEgFlP1SIerWEkpv3MLhF0ez4yUI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -2213,5 +2209,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "DSvevvz2"
+  "version": "zFT\/XIkA"
 };
