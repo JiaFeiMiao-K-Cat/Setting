@@ -73,7 +73,7 @@
       "url": "js\/jquery-3.6.0.min.js"
     },
     {
-      "hash": "sha256-2FrLG\/eDNY7\/HACNySW2y1tC1V0J8fLlTHlzGIgFnGA=",
+      "hash": "sha256-9amSI5BGZHkMKHPFwngxWUn2x1jH6rf99jjPIvnjKlg=",
       "url": "js\/Scripts.js"
     },
     {
@@ -2209,5 +2209,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "aAJWCc7H"
+  "version": "S13dKLS1"
 };
