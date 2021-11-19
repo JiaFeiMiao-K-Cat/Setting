@@ -77,7 +77,7 @@
       "url": "js\/Scripts.js"
     },
     {
-      "hash": "sha256-hciZ5lMs8P8XQDAKX3aH8G7d1Rrqd2YMO2h43K69vLE=",
+      "hash": "sha256-SRm8KCpwe+amj61vCGzOhWHv20pMCwOknTRxHe3ZYuY=",
       "url": "manifest.json"
     },
     {
@@ -2209,5 +2209,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "GZnUEU\/6"
+  "version": "wG443+jX"
 };
